@@ -1,0 +1,3 @@
+[submodule "guild-mle-projects"]
+	path = guild-mle-projects
+	url = https://github.com/kihugusa/guild-mle-projects.git
